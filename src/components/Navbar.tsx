@@ -29,10 +29,10 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         <button onClick={() => scrollTo("home")} className="flex items-center gap-3 cursor-none">
           <div className="w-9 h-9 border border-primary flex items-center justify-center font-display text-xs text-primary neon-text">
-            VJ
+            BCM
           </div>
           <span className="font-display text-sm tracking-[0.2em] text-foreground hidden sm:block">
-            VARSHITH
+            CHANDRA MOULI
           </span>
         </button>
         <div className="hidden md:flex items-center gap-8">
