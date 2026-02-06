@@ -39,10 +39,12 @@ const Hero = () => {
               transition={{ delay: 0.5, duration: 0.8 }}
               className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.1] mb-6"
             >
-              HI, I'M{" "}
-              <span className="text-gradient">BANDARU</span>
+              HI, I'M
               <br />
-              <span className="text-gradient">CHANDRA MOULI</span>
+              <span className="text-gradient">BANDARU</span>{" "}
+              <span className="text-gradient">CHANDRA</span>
+              <br />
+              <span className="text-gradient">MOULI</span>
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
