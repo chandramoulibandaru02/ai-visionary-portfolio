@@ -27,7 +27,7 @@ const About = () => {
           className="space-y-6 text-muted-foreground text-lg leading-relaxed"
         >
           <p>
-            I'm Varshith Julakanti, an AI Engineer based in Amaravati, Andhra Pradesh. My journey into the world of artificial intelligence began with a deep curiosity about how machines can learn, adapt, and solve complex real-world problems.
+            I'm Bandaru Chandra Mouli, an AI Engineer based in Amaravati, Andhra Pradesh. My journey into the world of artificial intelligence began with a deep curiosity about how machines can learn, adapt, and solve complex real-world problems.
           </p>
           <p>
             I specialize in Machine Learning, Deep Learning, and Computer Vision — crafting models that can predict, classify, and understand data in ways that create tangible impact. From temperature forecasting with LSTMs to disease detection with CNNs, I believe in building AI systems that matter.

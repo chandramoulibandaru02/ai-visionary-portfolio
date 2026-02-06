@@ -102,7 +102,7 @@ const Contact = () => {
         {/* Footer */}
         <div className="mt-20 pt-8 border-t border-border text-center">
           <p className="font-mono text-xs text-muted-foreground">
-            © 2025 Varshith Julakanti. Crafted with passion & code.
+            © 2025 Bandaru Chandra Mouli. Crafted with passion & code.
           </p>
         </div>
       </div>

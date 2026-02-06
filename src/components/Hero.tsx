@@ -40,9 +40,9 @@ const Hero = () => {
               className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-[1.1] mb-6"
             >
               HI, I'M{" "}
-              <span className="text-gradient">VARSHITH</span>
+              <span className="text-gradient">BANDARU</span>
               <br />
-              <span className="text-gradient">JULAKANTI</span>
+              <span className="text-gradient">CHANDRA MOULI</span>
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
