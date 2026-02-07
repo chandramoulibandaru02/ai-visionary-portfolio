@@ -9,7 +9,7 @@ const Hero = () => {
   const opacity = useTransform(scrollYProgress, [0, 0.8], [1, 0]);
 
   return (
-    <section id="home" ref={ref} className="relative min-h-screen flex items-center overflow-hidden grid-bg">
+    <section id="home" ref={ref} className="relative min-h-screen flex items-center overflow-hidden grid-bg pt-24">
       {/* Gradient orbs */}
       <div className="absolute top-1/4 left-1/4 w-96 h-96 rounded-full opacity-20 blur-[120px]" style={{ background: "hsl(300 100% 50%)" }} />
       <div className="absolute bottom-1/4 right-1/4 w-96 h-96 rounded-full opacity-15 blur-[120px]" style={{ background: "hsl(180 100% 50%)" }} />
