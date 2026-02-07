@@ -44,7 +44,7 @@ const LoadingScreen = ({ onComplete }: { onComplete: () => void }) => {
         className="w-full max-w-md px-8"
       >
         <h2 className="font-display text-primary text-sm tracking-[0.3em] mb-8 neon-text">
-          VARSHITH JULAKANTI
+          BANDARU CHANDRA MOULI
         </h2>
         <div className="space-y-2 font-mono text-sm mb-8">
           {lines.slice(0, phase).map((line, i) => (

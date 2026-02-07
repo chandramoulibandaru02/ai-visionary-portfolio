@@ -34,7 +34,7 @@ const Terminal = () => {
           <div className="w-3 h-3 rounded-full" style={{ background: "hsl(45 100% 50%)" }} />
           <div className="w-3 h-3 rounded-full" style={{ background: "hsl(120 100% 40%)" }} />
         </div>
-        <span className="font-mono text-xs text-muted-foreground">varshith@portfolio:~</span>
+        <span className="font-mono text-xs text-muted-foreground">chandramouli@portfolio:~</span>
       </div>
       {/* Body */}
       <div className="bg-background p-6 font-mono text-sm space-y-3 min-h-[200px]">
