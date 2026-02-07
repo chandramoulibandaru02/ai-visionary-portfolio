@@ -3,16 +3,16 @@ import { useRef } from "react";
 
 const timeline = [
   {
-    period: "Sept 2023 — Present",
-    title: "B.Tech in Computer Science (AI & ML)",
-    org: "Vellore Institute of Technology, AP",
-    description: "Pursuing specialization in Artificial Intelligence and Machine Learning. GPA: 8.61/10.00",
-  },
-  {
     period: "April 2025 — June 2025",
     title: "Machine Learning Intern",
     org: "FeyNN Labs Consultancy Services — Remote",
     description: "Developed ML models for predictive analysis and automation. Worked with large datasets, performing data cleaning, feature engineering, and model tuning.",
+  },
+  {
+    period: "Sept 2023 — Present",
+    title: "B.Tech in Computer Science (AI & ML)",
+    org: "Vellore Institute of Technology, AP",
+    description: "Pursuing specialization in Artificial Intelligence and Machine Learning. GPA: 8.61/10.00",
   },
   {
     period: "Sept 2021 — April 2023",
