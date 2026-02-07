@@ -1,5 +1,6 @@
 import { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
+import { Download } from "lucide-react";
 import Terminal from "./Terminal";
 
 const Hero = () => {
@@ -80,6 +81,14 @@ const Hero = () => {
               >
                 VIEW MY WORK
               </button>
+              <a
+                href="/resume.pdf"
+                download="Chandra_Mouli_Resume.pdf"
+                className="px-8 py-3 border border-primary text-primary font-display text-xs tracking-[0.2em] hover:bg-primary hover:text-primary-foreground transition-all duration-300 cursor-none flex items-center gap-2"
+              >
+                <Download size={16} />
+                DOWNLOAD RESUME
+              </a>
             </motion.div>
           </div>
           <motion.div

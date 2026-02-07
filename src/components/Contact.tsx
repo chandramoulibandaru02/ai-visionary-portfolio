@@ -53,15 +53,15 @@ const Contact = () => {
     {
       icon: MapPin,
       label: "Location",
-      value: "Hyderabad, Telangana, India",
+      value: "Vishakapatnam, Andhra Pradesh, India",
       href: null,
     },
   ];
 
   const socials = [
-    { icon: Github, url: "https://github.com", label: "GitHub" },
-    { icon: Instagram, url: "https://instagram.com", label: "Instagram" },
-    { icon: Linkedin, url: "https://linkedin.com", label: "LinkedIn" },
+    { icon: Github, url: "https://github.com/chandramoulibandaru02", label: "GitHub" },
+    { icon: Instagram, url: "https://www.instagram.com/chandra_o_o/", label: "Instagram" },
+    { icon: Linkedin, url: "https://www.linkedin.com/in/bandaru-chandra-mouli-772b3129b/", label: "LinkedIn" },
     { icon: Mail, url: "mailto:chandramouli022005@gmail.com", label: "Email" },
     { icon: MessageCircle, url: "https://wa.me/919390396056", label: "WhatsApp" },
   ];
