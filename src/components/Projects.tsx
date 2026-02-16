@@ -7,7 +7,7 @@ const projects = [
     description: "Built an LSTM-based temperature prediction system that forecasts the next 4 hours for any selected location with interactive map visualization.",
     tech: ["Python", "TensorFlow", "LSTM", "Flask", "Leaflet.js"],
     color: "primary",
-    demo: "https://github.com/chandramouli/temperature-lstm",
+    demo: "https://chandramoulibandaru02.github.io/Temperature_prediction_using_LSTM/",
   },
   {
     title: "Plant Disease Detection",
