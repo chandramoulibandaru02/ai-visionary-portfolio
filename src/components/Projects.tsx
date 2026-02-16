@@ -10,24 +10,17 @@ const projects = [
     demo: "https://chandramoulibandaru02.github.io/Temperature_prediction_using_LSTM/",
   },
   {
-    title: "Plant Disease Detection",
-    description: "Developed a CNN-based model to detect plant diseases from leaf images with high accuracy. Built a web interface for instant disease prediction.",
-    tech: ["Python", "CNN", "TensorFlow", "OpenCV", "Flask"],
-    color: "secondary",
-    demo: "https://github.com/chandramouli/plant-disease-detection",
-  },
-  {
     title: "Multi-Language Translation using LLM",
     description: "Built an AI-powered multilingual translation system using Large Language Models (LLMs). Implemented prompt engineering, API integration, and dynamic language handling to translate text across multiple languages with high accuracy.",
     tech: ["Python", "OpenAI API", "LangChain", "Streamlit", "Prompt Engineering"],
-    color: "primary",
+    color: "secondary",
     demo: "https://multi-language-translation-by-chandra-mouli-bandaru.streamlit.app",
   },
   {
     title: "Multiple PDF Explainer using RAG",
     description: "Developed a Retrieval-Augmented Generation (RAG) system to analyze and explain content from multiple PDF documents. Implemented PDF ingestion, semantic search, vector indexing, and natural language QA to deliver concise explanations from large datasets.",
     tech: ["Python", "LangChain", "OpenAI API", "FAISS", "PDF Parsing"],
-    color: "secondary",
+    color: "primary",
     demo: "https://multiple-pdf-explainer-using-rag-by-chandramouli-bandaru.streamlit.app/",
   },
 ];
