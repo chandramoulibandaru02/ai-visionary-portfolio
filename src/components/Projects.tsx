@@ -4,8 +4,8 @@ import { useRef, useState, MouseEvent } from "react";
 const projects = [
   {
     title: "Temperature Prediction using LSTM",
-    description: "Built an LSTM-based temperature prediction system that forecasts the next 4 hours for any selected location with interactive map visualization.",
-    tech: ["Python", "TensorFlow", "LSTM", "Flask", "Leaflet.js"],
+    description: "Built a time-series forecasting model using Long Short-Term Memory (LSTM) neural networks to predict temperature trends. Performed data preprocessing, sequence engineering, model training, and evaluation for accurate weather forecasting insights.",
+    tech: ["Python", "TensorFlow", "Keras", "NumPy", "Pandas", "Matplotlib"],
     color: "primary",
     demo: "https://chandramoulibandaru02.github.io/Temperature_prediction_using_LSTM/",
   },
